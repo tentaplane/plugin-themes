@@ -5,7 +5,7 @@ Admin UI for managing themes.
 ## Plugin details
 
 - ID: `tentapress/themes`
-- Version: `0.1.2`
+- Version: `0.1.3`
 - Service provider: `TentaPress\Themes\ThemesServiceProvider`
 
 ## Requirements
